@@ -3,13 +3,13 @@ parallel-jobs = 1
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
+https://github.com/FabianRei/revanced_custom_branding2/blob/main/config.toml
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-included-patches = ""
+included-patches = "'Custom branding'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
