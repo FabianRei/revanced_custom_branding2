@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.46.0)",
-  "versionCode": 21,
-  "zipUrl": "https://github.com/FabianRei/revanced_custom_branding2/releases/download/21/youtube-revanced-magisk-v20.14.43-all.zip",
-  "changelog": "https://raw.githubusercontent.com/FabianRei/revanced_custom_branding2/update/build.md"
+  "version": "v20.14.43 (patches 5.47.0)",
+  "versionCode": 22,
+  "zipUrl": "https://github.com/fabianreith/revanced_custom_branding2/releases/download/22/youtube-revanced-magisk-v20.14.43-all.zip",
+  "changelog": "https://raw.githubusercontent.com/fabianreith/revanced_custom_branding2/update/build.md"
 }
